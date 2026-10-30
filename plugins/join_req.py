@@ -1,4 +1,4 @@
-#Join Telegram Channel - @DREAMXBOTZ
+#Join Telegram Channel - @MbR_Officiall
 
 from pyrogram import Client, filters
 from pyrogram.types import ChatJoinRequest
