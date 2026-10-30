@@ -289,7 +289,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 </blockquote>
 
 <b>Updated By @MbR_Officiall</b>
-🔍 <b>Sᴇᴀʀᴄʜ →</b> {search_link}
+
 """
 
 
