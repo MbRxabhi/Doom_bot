@@ -272,15 +272,14 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/MbR_Officiall">[ Movie Bazaar ]</a></b>"""
+    CAPTION = """<b><a href="">{file_name}</a></b>\n\n<b>ᴀᴜᴅɪᴏ : {languages}</b>\n\n<b>⚜️ Powered By : <a href="https://t.me/MbR_Officiall">[ Movie Bazaar ]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
 <b><a href={poster_url}>📥</a><a href={imdb_url}>New {tag} Added</a></b>
 
-<blockquote>✨ ᴛɪᴛʟᴇ : <code>{filename} {year}</code>
-
-🎭 ɢᴇɴʀᴇs : <b>{genres}</b>
+<blockquote><code>{filename} {year}</code></blockquote>
+<blockquote>🎭 ɢᴇɴʀᴇs : <b>{genres}</b>
 📺 ᴏᴛᴛ        : <b>{ott}</b>
 🎞️ ǫᴜᴀʟɪᴛʏ : <b>{quality}</b>
 🎧 ᴀᴜᴅɪᴏ    : <b>{language}</b>
