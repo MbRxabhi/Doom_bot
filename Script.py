@@ -272,7 +272,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="">{file_name}</a></b>\n\n<b>ᴀᴜᴅɪᴏ : {languages}</b>\n\n<b>⚜️ Powered By : <a href="https://t.me/MbR_Officiall">[ Movie Bazaar ]</a></b>"""
+    CAPTION = """<b><a href="">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/MbR_Officiall">[ Movie Bazaar ]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
