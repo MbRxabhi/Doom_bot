@@ -272,7 +272,15 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/MbR_Officiall">[ Movie Bazaar ]</a></b>"""
+    CAPTION = """<b><a href="">{file_name}</a></b>
+
+<b>▪️🔗 Sɪᴢᴇ :➠ {file_size}
+━━━━━━━━━━━━━━━━━━━
+▪️Save Forever: Forward to your Saved Messages!
+━━━━━━━━━━━━━━━━━━━
+<blockquote>🎛️ Press 👇 [📝 View Tracks 📝] to check Video, Audio & Subtitle details before downloading!</blockquote>
+    
+⚜️ Powered By : <a href="https://t.me/MbR_Officiall">[ Movie Bazaar ]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
